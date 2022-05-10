@@ -1,37 +1,47 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/JijoJose2002/IOT-Mulearn/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Mulearn IOT Level 1
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<!---
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+-->
+----
+## Experiment 1:
+### **Hello world LED Blinking**
+Components:
+<!--ul -->
+* Arduino Uno Board
+* USB Cable
+* LED (Any Color) x 1 Nos
+* 220 OHM Resistor X 1 Nos
+* Breadboard
+* Jumper Wires (Male to Male ) X 2 Nos
 
-- Bulleted
-- List
+#### Code:
+<!---->
+int ledPin = 10;<!---->
+void setup()<!---->
+{
+pinMode(ledPin, OUTPUT);
 
-1. Numbered
-2. List
+}<!---->
+void loop()<!---->
+{
+digitalWrite(ledPin, HIGH);<!---->
+delay(1000); <!---->
+digitalWrite(ledPin, LOW);<!---->
+delay(1000);<!---->
+}
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+<!---->
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JijoJose2002/IOT-Mulearn/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Remarks 
+<!---->
+The code has been verified and uploaded to the arduino uno board
+<!---->
+----

@@ -38,8 +38,9 @@ delay(1000);<!---->
 
 <!---->
 
-Remarks 
+Remarks : 
 <!---->
+
 The code has been verified and uploaded to the arduino uno board
 <!---->
-----
+-----

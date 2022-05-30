@@ -3,6 +3,11 @@
 <!---
 -->
 ----
+Hii I'm **JIJO JOSE**, 2nd Year Mechanical Engineering student at St.JOSEPH'S COLLEGE OF ENGINEERING AND TECHNOLOGY , PALAI.
+
+**Team Name: SparkWit**<br>
+
+----
 ## Experiment 1:
 ### **Hello world LED Blinking**
 **Components:**

@@ -8,8 +8,7 @@ Hii I'm **JIJO JOSE**, 2nd Year Mechanical Engineering student at St.JOSEPH'S CO
 **Team Name: SparkWit**<br>
 
 ----
-## Experiment 1:
-### **Hello world LED Blinking**
+## **1.Hello world LED Blinking**
 **Components:**
 <!--ul -->
 * Arduino Uno Board

@@ -35,7 +35,7 @@ delay(1000);
 }
 ```
 **Circuit**
-<img src="Screenshot (77).png" alt="image">
+<img src="hello world.png.jpeg" alt="image">
 
 <!---->
 
@@ -86,6 +86,8 @@ delay(5000);// wait 5 seconds
 digitalWrite(redled, LOW);// turn off red LED
 }
 ```
+**Circuit**
+<img src="traffic light.jpeg" alt="traffic light">
 **Remarks**<!--Remark--><br>
 The code has been verified and uploaded to th e board.
 <!---->
@@ -124,11 +126,14 @@ void loop()
    }  
 }
 ```
+**Circuit**
+<img src="led chasing.jpeg" alt="LED chasing">
+
 **Remarks**<br>
 The code has been compiled and uploaded to the board.
 <!---->
 ----
-## **3.Button Controlled LED**
+## **4.Button Controlled LED**
 **Components:**
 * Arduino Uno
 * Button switch*1
@@ -158,7 +163,8 @@ else
 { digitalWrite(ledpin,HIGH);}
 }
 ```
-
+**Circuit**
+<img src="button controlled.png" alt="Button controlled">
 
 **Remarks** <br>
 The code has been compiled and uploaded to the board.
@@ -184,6 +190,9 @@ void loop()
 digitalWrite(buzzer, HIGH); // produce sound
 }
 ```
+**Circuit**
+<img src="buzzer.png" alt="Buzzer">
+
 **Remarks** <br>
 The code has been compiled and uploaded to the board.
 <!---->
@@ -227,6 +236,9 @@ for(val=0; val<255; val++)
  Serial.println(val, DEC);
 }
 ```
+**Circuit**
+<img src="rgb.png" alt="rgb">
+
 **Remarks** <br>
 The code has been compiled and uploaded to the board.
 <!---->
@@ -264,6 +276,9 @@ delay(10);// wait for 0.01
 **Remarks** <br>
 The code has been compiled and uploaded to the board.
 <!---->
+**Circuit**
+<img src="ldr.png" alt="ldr">
+
 ----
 ## **8.Flame Sensor**
 **Components**
@@ -299,6 +314,9 @@ void loop()
    delay(500); 
 }
 ```
+**Circuit**
+<img src="flame.png" alt="flame">
+
 **Remarks** <br>
 The code has been compiled and uploaded to the board.
 <!---->
@@ -330,6 +348,8 @@ Serial.println("C");// display “C” characters
 delay(500);// wait for 0.5 second
 }
 ```
+**Circuit**
+<img src="lm35.png" alt="lm35">
 
 **Remarks**<br>
 The code has been compiled and uploaded to the board.
@@ -476,6 +496,7 @@ irrecv.resume(); // Receive the next value
   }
 }
 ```
+
 **Remarks** <br>
 The code has been compiled and uploaded to the board.
 <!---->

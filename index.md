@@ -34,7 +34,8 @@ digitalWrite(ledPin, LOW);
 delay(1000);
 }
 ```
-
+**Circuit**
+<img src="Screenshot (77).png" alt="image">
 
 <!---->
 
@@ -157,8 +158,7 @@ else
 { digitalWrite(ledpin,HIGH);}
 }
 ```
-**Circuit**
-![image](Screenshot (77).png)
+
 
 **Remarks** <br>
 The code has been compiled and uploaded to the board.

@@ -158,7 +158,7 @@ else
 }
 ```
 **Circuit**
-![image](Screenshot(77).png)
+![image](Screenshot (77).png)
 
 **Remarks** <br>
 The code has been compiled and uploaded to the board.

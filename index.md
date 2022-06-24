@@ -512,6 +512,9 @@ The code has been compiled and uploaded to the board.
 * Breadboard Jumper Wire*3
 * USB cable*1
 
+**Circuit**
+<img src="potentiometer.jpeg" alt="image">
+
 **Code**
 ```Arduino
 int potpin=0;// initialize analog pin 0

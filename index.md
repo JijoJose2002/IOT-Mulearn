@@ -365,6 +365,9 @@ The code has been compiled and uploaded to the board.
 * Breadboard Wire *11
 * USB cable*1
 
+**Circuit**
+<img src="ir.jpeg" alt="image">
+
 **Code**
 ```Arduino
 #include <IRremote.h>
@@ -534,7 +537,7 @@ The code has been compiled and uploaded to the board.
 <!---->
 ----
 
-## **12.7 Segment Display**
+## **12. 7 Segment Display**
 **Components**
 * Arduino Uno Board*1
 * 1-digit LED Segment Display*1
@@ -542,6 +545,9 @@ The code has been compiled and uploaded to the board.
 * Breadboard*1
 * Breadboard Jumper Wires *several
 * USB cable*1
+
+**Circuit**
+<img src="7 segment.jpeg" alt="image">
 
 **Code**
 ```Arduino
